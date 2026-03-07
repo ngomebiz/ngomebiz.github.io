@@ -1,13 +1,11 @@
 # Privacy Policy for Ngome Biz App
 
-Effective Date: March 7, 2026
-
 ## Introduction
 At Ngome Biz, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.
 
 ## Information We Collect
 - **Personal Data:** We may ask you to provide us with certain personally identifiable information that can be used to contact or identify you, such as your name, email address, and phone number.
-- **Usage Data:** We may collect information on how the application is accessed and used, including details like your device's Internet Protocol address (e.g., IP address), browser type, browser version, and pages of our application that you visit.
+- **Usage Data:** We may collect information on how the application is accessed and used, including details like your location device type, OS version, and screens of our application that you visit.
 
 ## How We Use Your Information
 We use the collected data for various purposes:
@@ -36,4 +34,3 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 - By email: support@ngomebiz.com
-- By visiting this page on our website: www.ngomebiz.com/contact
