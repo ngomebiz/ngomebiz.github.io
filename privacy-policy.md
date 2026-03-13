@@ -2,7 +2,7 @@
 
 **Last updated:** March 13, 2026
 
-This Privacy Policy describes how the mobile application (“the App”) collects, uses, and protects information when you use the service.
+This Privacy Policy describes how the mobile application (“Ngome Biz”) collects, uses, and protects information when you use the service.
 
 ## 1. Information We Collect
 
@@ -101,4 +101,4 @@ This Privacy Policy may be updated periodically. Updates will be posted on this 
 
 If you have questions or requests regarding this Privacy Policy, you may contact:
 
-**Email:** [your@email.com](mailto:your@email.com)
+**Email:** [support@ngomebiz.com](mailto:support@ngomebiz.com)
