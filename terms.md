@@ -1,4 +1,7 @@
-# Terms of Use
+---
+title: "Terms of Use"
+permalink: /terms
+---
 
 Last updated: March 12, 2026
 
