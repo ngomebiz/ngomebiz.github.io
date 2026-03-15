@@ -5,9 +5,9 @@ permalink: /terms
 
 Last updated: March 12, 2026
 
-These Terms of Use govern your access to and use of the NgomeBiz mobile application (“the App”).
+These Terms of Use govern your access to and use of the Ngome Biz mobile application (“the App”).
 
-NgomeBiz is a software service that helps businesses manage invoices, track sales, maintain product inventory, and generate business reports and tax summaries.
+Ngome Biz is a software service that helps businesses manage invoices, track sales, maintain product inventory, and generate business reports and tax summaries.
 
 By using the App, you agree to these Terms.
 
