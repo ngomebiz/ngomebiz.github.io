@@ -2,5 +2,5 @@
 
 Legal documents for the NgomeBiz mobile application.
 
-- [Privacy Policy](/privacy-policy)
+- [Privacy Policy](/privacy)
 - [Terms of Use](/terms)
