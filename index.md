@@ -1,3 +1,8 @@
+---
+title: "Home"
+permalink: /
+---
+
 # Ngome Biz
 
 Legal documents for the Ngome Biz mobile application.
