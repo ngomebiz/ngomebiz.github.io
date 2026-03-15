@@ -1,6 +1,6 @@
-# NgomeBiz
+# Ngome Biz
 
-Legal documents for the NgomeBiz mobile application.
+Legal documents for the Ngome Biz mobile application.
 
 - [Privacy Policy](/privacy)
 - [Terms of Use](/terms)
