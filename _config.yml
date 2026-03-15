@@ -8,9 +8,9 @@ baseurl: ""
 permalink: pretty
 
 header_pages:
-  - index.md
-  - privacy-policy.md
   - terms.md
+  - privacy-policy.md
+  - index.md
 
 plugins:
   - jekyll-feed
