@@ -5,7 +5,7 @@ permalink: /privacy
 
 Last updated: March 12, 2026
 
-This Privacy Policy describes how the NgomeBiz mobile application (“the App”) collects, uses, and protects information when you use the service.
+This Privacy Policy describes how the Ngome Biz mobile application (“the App”) collects, uses, and protects information when you use the service.
 
 NgomeBiz is a software service designed to help businesses manage invoices, track sales and product stock, and generate reports and tax summaries.
 
